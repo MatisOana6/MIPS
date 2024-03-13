@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../Mips_Ciclu_Unic.srcs/sources_1/new/Reg_file.vhd"
+vhdl xil_defaultlib  "../../../Mips_Ciclu_Unic.srcs/sources_1/new/UnitateExecutie.vhd"
+vhdl xil_defaultlib  "../../../Mips_Ciclu_Unic.srcs/sources_1/imports/test_env - Copy/test_env.srcs/sources_1/new/SSD.vhd"
+vhdl xil_defaultlib  "../../../Mips_Ciclu_Unic.srcs/sources_1/imports/test_env - Copy/test_env.srcs/sources_1/new/MPG.vhd"
+vhdl xil_defaultlib  "../../../Mips_Ciclu_Unic.srcs/sources_1/new/MEM.vhd"
+vhdl xil_defaultlib  "../../../Mips_Ciclu_Unic.srcs/sources_1/new/MainControl.vhd"
+vhdl xil_defaultlib  "../../../Mips_Ciclu_Unic.srcs/sources_1/new/InstructionFetch.vhd"
+vhdl xil_defaultlib  "../../../Mips_Ciclu_Unic.srcs/sources_1/new/ID_Unity.vhd"
+vhdl xil_defaultlib  "../../../Mips_Ciclu_Unic.srcs/sources_1/imports/new/test_env.vhd"
+
+# Do not sort compile order
+nosort

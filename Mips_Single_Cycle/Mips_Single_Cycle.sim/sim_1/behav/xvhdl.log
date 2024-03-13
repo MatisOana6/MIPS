@@ -1,0 +1,18 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Oana/Desktop/AC/Mips_Ciclu_Unic/Mips_Ciclu_Unic.srcs/sources_1/new/Reg_file.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Reg_file
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Oana/Desktop/AC/Mips_Ciclu_Unic/Mips_Ciclu_Unic.srcs/sources_1/new/UnitateExecutie.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity UnitateExecutie
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Oana/Desktop/AC/Mips_Ciclu_Unic/Mips_Ciclu_Unic.srcs/sources_1/imports/test_env - Copy/test_env.srcs/sources_1/new/SSD.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity SSD
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Oana/Desktop/AC/Mips_Ciclu_Unic/Mips_Ciclu_Unic.srcs/sources_1/imports/test_env - Copy/test_env.srcs/sources_1/new/MPG.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MPG
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Oana/Desktop/AC/Mips_Ciclu_Unic/Mips_Ciclu_Unic.srcs/sources_1/new/MEM.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MEM
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Oana/Desktop/AC/Mips_Ciclu_Unic/Mips_Ciclu_Unic.srcs/sources_1/new/MainControl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity UnitateControl
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Oana/Desktop/AC/Mips_Ciclu_Unic/Mips_Ciclu_Unic.srcs/sources_1/new/InstructionFetch.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity InstructionFetch
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Oana/Desktop/AC/Mips_Ciclu_Unic/Mips_Ciclu_Unic.srcs/sources_1/new/ID_Unity.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ID_Unity
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Oana/Desktop/AC/Mips_Ciclu_Unic/Mips_Ciclu_Unic.srcs/sources_1/imports/new/test_env.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_env
